@@ -1,0 +1,43 @@
+{
+  "arashdaliran": [
+    {
+      "aktionTitel": "Teilnahme an Probelehrveranstaltung",
+      "issueId": 1,
+      "punkteProEinzelaktion": 3,
+      "anzahl": 3,
+      "proofs": [
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FProbelehrveranstaltungen&openfile=987392912",
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FProbelehrveranstaltungen&openfile=987392918",
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FProbelehrveranstaltungen&openfile=987392909",
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FProbelehrveranstaltungen&openfile=987392921"
+      ]
+    },
+    {
+      "aktionTitel": "Plakate gestalten und aufhängen",
+      "issueId": 81,
+      "punkteProEinzelaktion": 2,
+      "anzahl": 1,
+      "proofs": [
+        "https://github.com/user-attachments/files/20676045/Plakat1_Arash.pdf"
+      ]
+    },
+    {
+      "aktionTitel": "Teilnahme an Präsenzveranstaltung",
+      "issueId": 2,
+      "punkteProEinzelaktion": 5,
+      "anzahl": 7
+    },
+    {
+      "aktionTitel": "Teilnahme am Startup Day der Hochschule",
+      "issueId": 40,
+      "punkteProEinzelaktion": 7,
+      "anzahl": 1,
+      "proofs": [
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FStartup-Day&openfile=987394841",
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FStartup-Day&openfile=987394838",
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FStartup-Day&openfile=987394847",
+        "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FStartup-Day&openfile=987394862"
+      ]
+    }
+  ]
+}
