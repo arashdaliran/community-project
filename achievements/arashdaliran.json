@@ -38,6 +38,18 @@
         "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FStartup-Day&openfile=987394847",
         "https://th-koeln.sciebo.de/s/8NMTxtJnRZhMom4?dir=undefined&path=%2FStartup-Day&openfile=987394862"
       ]
+    },
+    {
+      "aktionTitel": "Neues UI-Design für den Stundenplan des Campus GM",
+      "issueId": 138,
+      "punkteProEinzelaktion": 20,
+      "anzahl": 1
+    },
+    {
+      "aktionTitel": "Strukturierte Dokumentation der Beteiligung via GitHub",
+      "issueId": 188,
+      "punkteProEinzelaktion": 5,
+      "anzahl": 1
     }
   ]
 }
